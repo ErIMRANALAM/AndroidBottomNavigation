@@ -1,4 +1,4 @@
-# AndroidBottomNavigation
+# Android Bottom Navigation
 An Example of Androidx Bottom Navigation with Activity
 
 <hr />
